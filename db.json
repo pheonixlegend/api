@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "GPU RTX 3080",
+      "location": "Dusseldorf",
+      "ip": "192.168.123.1",
+      "mac": "c1:8c:85:ca:09:6b"
+    },
+    {
+      "id": 2,
+      "name": "GPU RTX 3090",
+      "location": "San Franscisco",
+      "ip": "192.176.136.13",
+      "mac": "fc:71:97:5b:78:9a"
+    },
+    {
+      "id": 3,
+      "name": "GPU RTX 3060 Ti",
+      "location": "London",
+      "ip": "192.168.162.12",
+      "mac": "b5:0b:a4:a7:40:fc"
+    },
+    {
+      "id": 4,
+      "name": "AMD Radeon RX 6800 XT",
+      "location": "New York",
+      "ip": "192.192.002.267",
+      "mac": "d3:10:39:a3:d5:ea"
+    },
+    {
+      "id": 5,
+      "name": "AMD Radeon RX 5600 XT",
+      "location": "Frankfurt",
+      "ip": "192.168.186.1",
+      "mac": "4b:d9:64:2b:65:6f"
+    },
+    {
+      "id": 6,
+      "name": "GeForce GTX 1080 Ti",
+      "location": "Paris",
+      "ip": "192.192.065.6",
+      "mac": "6d:6a:04:f2:1f:fa"
+    }
+  ]
+}
